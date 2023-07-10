@@ -1,0 +1,107 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.full-container {}
+
+.NAVBAR {
+    background-color: gray;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ul-navbar {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-navbar {
+    background-color: gray;
+    list-style-type: none;
+    color: rgb(255, 255, 255);
+    font-size: 100;
+    margin: 100px;
+    width: 20%%;
+    padding: 100px;
+    justify-content: center;
+    align-items: center;
+    height: 45%%;
+    
+}
+
+.container-content {
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-content1 {
+    width: 45%;
+    height: 60%;
+    
+}
+
+.img-content2 {
+    width: 300px;
+    height: 50%%;
+}
+
+.img-content3 {
+    width: 300px;
+    height: 60%;
+}
+
+.img_asik1 {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+}
+
+.img_asik2 {
+    background-color: rgb(0, 0, 0);
+    color: red;
+    width: 10%;
+    height: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 80px;
+    box-shadow: 10px 10px 5px 0px; 
+
+}
+
+.img_asik3 {
+    background-color: rgb(0, 0, 0);
+    color: red;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-footer {
+background-color: darkmagenta;
+height: ;
+display: flex;
+justify-content: center;
+align-items: center;border-radius: 80px;
+box-shadow: 10px 10px 5px 0px; 
+
+}
+
+.u1-footer {
+    font-size: 40px;
+
+}
